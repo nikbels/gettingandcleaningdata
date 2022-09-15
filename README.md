@@ -1,6 +1,8 @@
 # gettingandcleaningdata
 Creating a Tidy dataset from given data
 
+Note: The code file and the data file generated using the code are both uploaded here. The code file and the required data files should be in the same working directory in order to successfully generate the data file.
+
 The objective is to create a summarised, tidy dataset from the given data.
 To this end, we use the text files "X_train.txt", "X_test.txt", "y_train.txt", "y_test.txt", "subject_train.txt", "subject_test.txt" for the most part.
 The "subject_train.txt" and "subject_test.txt" files have the subject info. A total of 30 subjects (persons) were chosen and 
@@ -18,7 +20,7 @@ As told in the assignment, we must-
 Include only the variables with "mean()" and "std()" in the variable name for each measurement. 
 As per the README, we have mean, std, etc. for each type of measurement. 
 For ex., for the measurement "fBodyAccJerk-mean()-X", include only the variables
-"fBodyBodyAccJerkMag-mean()" and "fBodyBodyAccJerkMag-std()"
+"fBodyBodyAccJerkMag-mean()" and "fBodyBodyAccJerkMag-std()".
 
 Step 3.
 Descriptive activity names for activity labels. Given in the file "activity_labels.txt".
