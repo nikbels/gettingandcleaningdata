@@ -37,7 +37,8 @@ Step 4.
 Descriptive names for the variables in the dataset.
 Apart from the variables subject and activity_label,
 We see that the relevant ones are: 
-tBodyAcc, tGravityAcc, tBodyJerkAcc, tBodyGyro, tBodyGyroJerk, tGravityAccMag. 
+tBodyAcc, tGravityAcc, tBodyJerkAcc, tBodyGyro, tBodyGyroJerk, tGravityAccMag, etc.
+Additionally, the above variables are present in frequency domain too.
 README and the file "features_info.txt" was used to understand the meanings and the names are given accordingly.
 
 Step 5.
